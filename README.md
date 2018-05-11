@@ -17,7 +17,9 @@
     + Modules 
 		+ import this
 
-
+	Resource 
+	+ Lecture 1-12 of https://www.youtube.com/playlist?list=PL4cUxeGkcC9idu6GZ8EU_5B6WpKTdYZbK
+	+ Or 3-4.3 of https://docs.python.org/3/tutorial/
 2. Git 
     + git clone
     + git init status add commit push 
@@ -36,9 +38,9 @@
 6. Numpy 
 	+ Will be updated later 
 
-## Optional 
-
-7. matplotlib 
-	+ Will be updated later
 
 
+
+### Task 
+
+Will be updated later 
