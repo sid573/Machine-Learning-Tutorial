@@ -25,19 +25,33 @@
     + git init status add commit push 
     + git pull
 
+	Resource 
+	+ https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR
+
+
 3. Pip
     + install packages/modules 
+
+	Resource 
+	+ https://www.youtube.com/watch?v=U2ZN104hIcc
 
 4. Virtual environment
     + Why is it necessary ?
 
+	Resource 
+	+ https://www.youtube.com/watch?v=N5vscPTWKOk
+
 
 5. IPython/Jupyter Notebook
-	+ Will be updated later
+
+	Resource 
+	+ https://www.youtube.com/watch?v=HW29067qVWk
+
 
 6. Numpy 
-	+ Will be updated later 
 
+	Resource 
+	+ https://docs.scipy.org/doc/numpy/user/quickstart.html
 
 
 
