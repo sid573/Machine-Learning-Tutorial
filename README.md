@@ -52,8 +52,9 @@
 
 	Resource 
 	+ https://docs.scipy.org/doc/numpy/user/quickstart.html
+
+	+ http://cs231n.github.io/python-numpy-tutorial/
 	
-        + http://cs231n.github.io/python-numpy-tutorial/
 
 
 ### Task 
