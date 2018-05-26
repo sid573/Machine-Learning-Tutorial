@@ -6,7 +6,7 @@
 
 
 Task 2:
-1. Create two 10x1 arrays and fill up random values.
+1. Create two 10000x1 arrays and fill up random values.
 2. Find the dot product of the two arrays using numpy.
 3. Use a loop to compute the dot product of the same vectors.
 4. Calculate the time required for the computation of the dot product using the said methods. Which method is faster? (Use time library).
